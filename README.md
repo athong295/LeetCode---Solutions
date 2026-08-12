@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/athong295/LeetCode---Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/athong295/LeetCode---Solutions/tree/master/0013-roman-to-integer) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/athong295/LeetCode---Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/athong295/LeetCode---Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/athong295/LeetCode---Solutions/tree/master/0013-roman-to-integer) |
 | [1510-stone-game-iv](https://github.com/athong295/LeetCode---Solutions/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/athong295/LeetCode---Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/athong295/LeetCode---Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
