@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/athong295/LeetCode---Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/athong295/LeetCode---Solutions/tree/master/0014-longest-common-prefix) |
+| [2029-stone-game-ix](https://github.com/athong295/LeetCode---Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/athong295/LeetCode---Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/athong295/LeetCode---Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/athong295/LeetCode---Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/athong295/LeetCode---Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/athong295/LeetCode---Solutions/tree/master/0013-roman-to-integer) |
 | [1510-stone-game-iv](https://github.com/athong295/LeetCode---Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/athong295/LeetCode---Solutions/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,14 +37,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/athong295/LeetCode---Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/athong295/LeetCode---Solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/athong295/LeetCode---Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/athong295/LeetCode---Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/athong295/LeetCode---Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/athong295/LeetCode---Solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -51,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/athong295/LeetCode---Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/athong295/LeetCode---Solutions/tree/master/2029-stone-game-ix) |
 ## Sorting
 |  |
 | ------- |
@@ -91,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/athong295/LeetCode---Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/athong295/LeetCode---Solutions/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/athong295/LeetCode---Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
