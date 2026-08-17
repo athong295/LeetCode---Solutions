@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/athong295/LeetCode---Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/athong295/LeetCode---Solutions/tree/master/0014-longest-common-prefix) |
+| [1563-stone-game-v](https://github.com/athong295/LeetCode---Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/athong295/LeetCode---Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/athong295/LeetCode---Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/athong295/LeetCode---Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -28,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/athong295/LeetCode---Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/athong295/LeetCode---Solutions/tree/master/0013-roman-to-integer) |
 | [1510-stone-game-iv](https://github.com/athong295/LeetCode---Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/athong295/LeetCode---Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/athong295/LeetCode---Solutions/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/athong295/LeetCode---Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/athong295/LeetCode---Solutions/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/athong295/LeetCode---Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/athong295/LeetCode---Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/athong295/LeetCode---Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
