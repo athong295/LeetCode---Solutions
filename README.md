@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/athong295/LeetCode---Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/athong295/LeetCode---Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/athong295/LeetCode---Solutions/tree/master/0020-valid-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/athong295/LeetCode---Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/athong295/LeetCode---Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
@@ -111,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/athong295/LeetCode---Solutions/tree/master/2029-stone-game-ix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/athong295/LeetCode---Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/athong295/LeetCode---Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
