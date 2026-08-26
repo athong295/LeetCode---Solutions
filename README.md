@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/athong295/LeetCode---Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/athong295/LeetCode---Solutions/tree/master/0020-valid-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/athong295/LeetCode---Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/athong295/LeetCode---Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/athong295/LeetCode---Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/athong295/LeetCode---Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/athong295/LeetCode---Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/athong295/LeetCode---Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
