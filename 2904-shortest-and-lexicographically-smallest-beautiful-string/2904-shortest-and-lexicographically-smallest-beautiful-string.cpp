@@ -1,0 +1,33 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+class Solution {
+public:
+    string shortestBeautifulSubstring(string s, int k) {
+        int n = s.length();
+        string ans = "";
+
+        for (int i = 0; i < n; i++) {
+            int ones = 0;
+            for (int j = i; j < n; j++) {
+                if (s[j] == '1') {
+                    ones++;
+                }
+
+                if (ones == k) {
+                    string sub = s.substr(i, j - i + 1);
+                    
+                    if (ans == "" || sub.length() < ans.length() || 
+                       (sub.length() == ans.length() && sub < ans)) {
+                        ans = sub;
+                    }
+                    break; // Không cần xét j tiếp theo vì ones sẽ vượt quá k
+                }
+            }
+        }
+
+        return ans;
+    }
+};
