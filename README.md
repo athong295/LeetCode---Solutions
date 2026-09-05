@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/athong295/LeetCode---Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/athong295/LeetCode---Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/athong295/LeetCode---Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/athong295/LeetCode---Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/athong295/LeetCode---Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/athong295/LeetCode---Solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
